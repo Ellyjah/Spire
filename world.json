@@ -1,0 +1,21 @@
+{
+  "name": "spire",
+  "title": "Spire",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.11.0"
+}
