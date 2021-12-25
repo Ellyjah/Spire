@@ -1,12 +1,16 @@
+{"name":"Sacerdote carroñero","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"05B8ymCJK1YP9qnY"}
 {"_id":"2ex5zEg9jAr83oRV","name":"_PROPERTIES","type":"Item","parent":"lt0KaJrRe0CLiWgY","sorting":"a","sort":0,"color":"#568ef5","flags":{}}
 {"_id":"2oDGm7rKLLUP18bO","name":"Otros","type":"Item","parent":"2ex5zEg9jAr83oRV","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
 {"_id":"3XMDgbZQ24f84j35","name":"Consecuencias moderadas vínculos","type":"Item","parent":"Fpic2GiAzhGOvgBh","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
 {"name":"Comadrona","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"78A9EwVLRahfgP8d"}
 {"_id":"7N7xiPYgd1GPZNlv","name":"Skills","type":"Item","parent":"ZOLb82a0jZvm8fjM","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
 {"_id":"7b1H8HjbOJg6rFmj","name":"Consecuencias graves vínculos","type":"Item","parent":"Fpic2GiAzhGOvgBh","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
+{"name":"Lajhan","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"7sPeRjlx4ZyVJy4w"}
 {"_id":"7t2HItXDZDj30ZvH","name":"Tablas","type":"Item","parent":"2ex5zEg9jAr83oRV","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
 {"_id":"8RijELjO9sFM1zzT","name":"Tirada","type":"Item","parent":"2ex5zEg9jAr83oRV","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
 {"_id":"8YWqnGxl8PqB7Qwa","name":"Vínculos","type":"Item","parent":"ZOLb82a0jZvm8fjM","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
+{"name":"Comadrona","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"8cMigkS13Ekb71T3"}
+{"name":"Lajhan","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"AFnOpSyjJrdFbM4C"}
 {"_id":"AZlLQn4BKDhMXVn2","name":"_TEMPLATES","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#9000b8","flags":{}}
 {"name":"Sacerdote carroñero","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"D0LR2JX5H5oF12dF"}
 {"name":"Juramentado","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"DVoZmLVbsXmo9hbI"}
@@ -17,22 +21,31 @@
 {"_id":"Gu3jBafYkfauD7jf","name":"Personajes","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#22d11f","flags":{}}
 {"_id":"HLiXKgU1pxp5Tj5K","name":"Capacidades","type":"Item","parent":"hxUOT3yYxmrNgCwS","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
 {"_id":"Ha9eRgylSbV7pPFN","name":"Consecuencias moderadas","type":"Item","parent":"Z2o2j4SXEM15KanP","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
+{"name":"Azurita","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"HdBBHRzmZ2Ebxkrx"}
 {"_id":"Hvtd6BqO3DtMX6s3","name":"Ídolo","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
+{"name":"Juramentado","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"K97XYDmZKbEVE5vR"}
 {"_id":"KicSliS5TsnLVR15","name":"Armas","type":"Item","parent":"cWSViM39ntL5jzjo","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
 {"_id":"NMofjiZgSwDmQsXJ","name":"Equipamiento","type":"Item","parent":"ZOLb82a0jZvm8fjM","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
 {"_id":"NiodnscxJu9xTVPP","name":"Consecuencias graves","type":"Item","parent":"Z2o2j4SXEM15KanP","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
+{"name":"Enmascarado","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"NxQ74buWXVI2A1qH"}
 {"_id":"PJLsUSN0ZtMihl1t","name":"Habilidades","type":"Item","parent":"hxUOT3yYxmrNgCwS","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
 {"name":"Enmascarado","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"PlX8KVtD1S28eutX"}
 {"_id":"Qpau8eP8U8ANJowp","name":"_CONFIG","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#da0101","flags":{}}
 {"_id":"RfhgX7iP1nCQpD54","name":"Dominios","type":"Item","parent":"hxUOT3yYxmrNgCwS","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
+{"name":"Avances","type":"Item","parent":"ZOLb82a0jZvm8fjM","sorting":"a","sort":0,"color":"#8cbef2","flags":{},"_id":"S70s37GH8ngpyQEr"}
 {"_id":"S76W7xDL64Bk8i2c","name":"Alborotador","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
+{"name":"Caballero","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"UhsxS9WJzVBJLsUT"}
 {"_id":"XPdVjnW9uqifT9Mw","name":"Consecuencias menores","type":"Item","parent":"Z2o2j4SXEM15KanP","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
 {"_id":"Z2o2j4SXEM15KanP","name":"Consecuencias","type":"Item","parent":"AZlLQn4BKDhMXVn2","sorting":"a","sort":0,"color":"#c937e6","flags":{}}
 {"_id":"ZOLb82a0jZvm8fjM","name":"_PANELS","type":"Item","parent":"lt0KaJrRe0CLiWgY","sorting":"a","sort":0,"color":"#568ef5","flags":{}}
 {"_id":"bNdvIbcdwb36cDMk","name":"Recargar","type":"Item","parent":"ZOLb82a0jZvm8fjM","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
+{"name":"Juramentado","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"c4sW5lPACWeB6U31"}
 {"_id":"cWSViM39ntL5jzjo","name":"cItems","type":"Item","parent":"AZlLQn4BKDhMXVn2","sorting":"a","sort":0,"color":"#c937e6","flags":{}}
+{"name":"Comadrona","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"f7ACSfA08oofm8Hx"}
 {"_id":"fRbJcDgI4lnDWBNV","name":"Armaduras","type":"Item","parent":"cWSViM39ntL5jzjo","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
 {"name":"Agente de las sombras","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"fUFulMB9nuw3s1f7"}
+{"name":"Ídolo","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"fXHYMPOF25LEu6Zg"}
+{"name":"Azurita","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"gNp2pVe4cJAjk7dO"}
 {"_id":"hO9XhWr2tyw3md1w","name":"Avances medios","type":"Item","parent":"AZlLQn4BKDhMXVn2","sorting":"a","sort":0,"color":"#c937e6","flags":{}}
 {"_id":"hxUOT3yYxmrNgCwS","name":"Personajes","type":"Item","parent":"AZlLQn4BKDhMXVn2","sorting":"a","sort":0,"color":"#c937e6","flags":{}}
 {"name":"Caballero","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"j5hrpYQ5nqpktPmk"}
@@ -40,14 +53,22 @@
 {"name":"Lajhan","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"jLxVJhKb2iGuO7bk"}
 {"name":"Azurita","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"jrnd3v0Ni7xR2jqS"}
 {"_id":"lt0KaJrRe0CLiWgY","name":"_CONFIG","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#4b40e2","flags":{}}
+{"name":"Alborotador","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"nNh5CmCjzFzRCEhU"}
 {"_id":"nRlflNj9EYKVGm9Y","name":"Arquetipo","type":"Item","parent":"ZOLb82a0jZvm8fjM","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
+{"name":"Caballero","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"qCiyoyrgW8WtgNo8"}
+{"name":"Sabio vermissiano","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"qgdzdvcXRhzraUlx"}
 {"_id":"r0m9UfapgSsqf9e9","name":"Tirada","type":"Item","parent":"ZOLb82a0jZvm8fjM","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
+{"name":"Enmascarado","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"rEgOSsiaOkSonmUm"}
 {"_id":"rZOBtQ2dYIBWallw","name":"_TABS","type":"Item","parent":"lt0KaJrRe0CLiWgY","sorting":"a","sort":0,"color":"#568ef5","flags":{}}
+{"name":"Ídolo","type":"Item","parent":"hO9XhWr2tyw3md1w","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"rtmxL3kX9sTd9MIU"}
 {"_id":"rzCY3HRXdoso9aFs","name":"Etiquetas","type":"Item","parent":"cWSViM39ntL5jzjo","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
 {"_id":"s2tf2KaAHiGVTZl9","name":"Estres","type":"Item","parent":"ZOLb82a0jZvm8fjM","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
 {"_id":"tpnePMtyIXb3C6SZ","name":"Estres","type":"Item","parent":"2ex5zEg9jAr83oRV","sorting":"a","sort":0,"color":"#8cbef2","flags":{}}
 {"_id":"tqlY6pb3odvgcgrb","name":"Consecuencias menores vínculos","type":"Item","parent":"Fpic2GiAzhGOvgBh","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
+{"name":"Sacerdote vermissiano","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"v7N6vhqDgORYWgrP"}
 {"_id":"wOSomHFdcqnlvLus","name":"Grupos","type":"Item","parent":"AZlLQn4BKDhMXVn2","sorting":"a","sort":0,"color":"#c937e6","flags":{}}
 {"_id":"xaBQVzZEeY9CMzgR","name":"Consecuencias vínculos","type":"Item","parent":"Z2o2j4SXEM15KanP","sorting":"a","sort":0,"color":"#ea99fa","flags":{}}
+{"name":"Alborotador","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"xgnPDdzJ9yHUOInq"}
+{"name":"Sacerdote carroñero","type":"Item","parent":"EFdz99mLfs5uGbcd","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"ytnWcjTH2f7RdE8k"}
 {"name":"Forjatinta","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"z07ZUVtKAol91k2w"}
 {"name":"Sabio vermissiano","type":"Item","parent":"FfCxvxlm989i2D1i","sorting":"a","sort":0,"color":"#ea99fa","flags":{},"_id":"zlUT9q4IofwBxuOH"}
